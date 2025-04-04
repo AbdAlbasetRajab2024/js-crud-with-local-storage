@@ -1,0 +1,32 @@
+
+    body {
+        background-color: #f8f9fa;
+    }
+
+    .add-course {
+        padding: 40px 0;
+    }
+
+    .add-course h1 {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    form {
+        background: #ffffff;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    table {
+        background: #fff;
+        border-radius: 8px;
+        overflow: hidden;
+    }
+
+    #deleteBtn {
+        display: block;
+        margin: auto;
+    }
+
